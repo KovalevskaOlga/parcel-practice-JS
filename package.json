@@ -1,0 +1,24 @@
+{
+  "name": "parcel-practice-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KovalevskaOlga/parcel-practice-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KovalevskaOlga/parcel-practice-JS/issues"
+  },
+  "homepage": "https://github.com/KovalevskaOlga/parcel-practice-JS#readme",
+  "dependencies": {
+    "parcel": "^2.14.4"
+  }
+}
